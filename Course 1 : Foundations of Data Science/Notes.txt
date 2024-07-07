@@ -7,8 +7,9 @@ Strategic data professionals :
   2. BI professionals, Technical Project Managers.
 
 PACE - Plan, Analyze, Construct, Execute :
-  1. Communicate with stakeholders and data team to create a project proposal and plan deadlines, budget, resource 
-     availability and discuss the known issues. Stick to the purpose.
+  1. Communicate with stakeholders and data team to create a project proposal and plan deadlines, budget, tools and
+     technologies availability and discuss the known issues. Always stick to the purpose.
   2. Analyze the data for any missing data and perform EDA.
-  3. Construct - build the model according to the requirement and provide the results.
-  4. Execute - prepare dashboards and present it to the audience by storytelling.
+  3. Construct the model according to the requirement and provide the results.
+  4. Execute by preparing dashboards and presenting the findings or results to the audience by storytelling and get 
+     feedbacks to improve.
