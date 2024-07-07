@@ -1,1 +1,13 @@
+Technical and Strategic data professional roles :
+Technical data professionals :
+  1. Involves Mathematics, Statistics and Computing. Explores datasets and builds Models.
+  2. Data Scientists, Machine Learning Engineers, Statisticians.
+Strategic data professionals :
+  1. Interpret information for organization's operations, finance, research and development.
+  2. BI professionals, Technical Project Managers
 
+PACE - Plan, Analyze, Construct, Execute :
+  1. Communicate with stakeholders and data team to create a project proposal and plan deadlines, budget, resource availability and discuss the known issues. Stick to the purpose.
+  2. Analyze the data for any missing data and perform EDA.
+  3. Construct - build the model according to the requirement and provide the results.
+  4. Execute - prepare dashboards and present it to the audience by storytelling.
