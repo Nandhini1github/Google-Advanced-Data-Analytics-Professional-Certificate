@@ -1,6 +1,6 @@
 Technical and Strategic data professional roles :
 Technical data professionals :
-  1. Involves Mathematics, Statistics and Computing. Explores datasets and builds Models.
+  1. Involves Mathematics, Statistics and Computing. Explore datasets and build Models.
   2. Data Scientists, Machine Learning Engineers, Statisticians.
 Strategic data professionals :
   1. Interpret information for organization's operations, finance, research and development.
